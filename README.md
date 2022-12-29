@@ -9,6 +9,8 @@
 
 [![Anurag's github stats](https://github-readme-stats-clone-nine.vercel.app/api?username=takuuum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/?username=SNQ-2001)
+
 [![Top Langs](https://github-readme-stats-clone-nine.vercel.app/api/top-langs/?username=takuuum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-readme-stats-clone-nine.vercel.app/?username=takuuum&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
