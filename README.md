@@ -7,7 +7,7 @@
 
 ## History
 
-[![Anurag's github stats](https://github.com/anuraghazra/github-readme-stats/api?username=takuuum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-clone-nine.vercel.app/api?username=takuuum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuuum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
