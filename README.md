@@ -7,7 +7,7 @@
 
 ## History
 
-[![Anurag's github stats](https://github-readme-stats-clone-nine.vercel.app/api)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-clone-nine.vercel.app/api?username=takuuum)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/?username=SNQ-2001)
 
