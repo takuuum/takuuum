@@ -27,4 +27,4 @@ My areas of expertise include application design (DDD, Microservices).
 - [1秒も保持できないCookieを永久的に保持する方法（ITP2.3対応）](https://qiita.com/takuuuum/items/ad445844eb131d5e59cb)
 ### other
 - [「好きなことを仕事にする」 ではなく 「嫌いなことを仕事にしない」](https://note.com/mizutaku0705/n/nb61178496061)
-
+- [「できないこと」をできないと言う勇気](https://note.com/mizutaku0705/n/nafbca7b3635f)
