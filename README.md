@@ -30,7 +30,7 @@ My areas of expertise include application design (DDD, Microservices).
 | DDD | ★★★★★ |
 | Microservices | ★★★★☆ |
 | CI/CD | ★★★☆☆ |
-| O11y | ★★★☆☆ |
+| O11y | ★★★☆☆ (Logging and Trace) |
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuuum)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ```
