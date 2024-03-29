@@ -18,6 +18,21 @@ My areas of expertise include application design (DDD, Microservices).
 
 ## Skills
 ### Tech
+| Title | Level |
+|---|---|
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> | ★★★★★ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> | ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.) |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs" /> | ★★★☆☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area only) |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ★☆☆☆☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★★☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> | ★★★☆☆ |
+| DDD | ★★★★★ |
+| Microservices | ★★★★☆ |
+| CI/CD | ★★★☆☆ |
+| O11y | ★★★☆☆ |
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuuum)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ```
 ★★★★★：Capable of reviewing and educating others
 ★★★★☆：Capable of reviewing others
@@ -25,16 +40,6 @@ My areas of expertise include application design (DDD, Microservices).
 ★★☆☆☆：Capable of implementing independently at the maintenance level
 ★☆☆☆☆：Capable of implementing with support
 ```
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> ★★★★★
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.)
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs" /> ★★★☆☆
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> ★★★★★ (Application area only)
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> ★☆☆☆☆
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> ★★★★☆
-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> ★★★☆☆
-- DDD ★★★★★
-- Microservices ★★★★☆
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuuum)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Other
 - Communication Skills
