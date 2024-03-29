@@ -23,7 +23,7 @@ My areas of expertise include application design (DDD, Microservices).
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> | ★★★★★ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> | ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.) |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs" /> | ★★★☆☆ |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area only) |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area) |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ★☆☆☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★★☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> | ★★★☆☆ |
