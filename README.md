@@ -22,10 +22,8 @@ My areas of expertise include application design (DDD, Microservices).
 |---|---|
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> | ★★★★★ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> | ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.) |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs" /> | ★★★☆☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs,nuxt" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area) |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" /> | ☆☆☆☆☆ (I'm studying.) |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ☆☆☆☆☆ (I'm studying.) |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★★☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> | ★★★☆☆ |
 | DDD | ★★★★★ |
@@ -33,6 +31,9 @@ My areas of expertise include application design (DDD, Microservices).
 | CI/CD | ★★★☆☆ |
 | O11y | ★★★☆☆ (Logging and Trace) |
 | GenAI | ★★☆☆☆ |
+<!-- 
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" /> | ☆☆☆☆☆ (I'm studying.) |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ☆☆☆☆☆ (I'm studying.) |  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuuum)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ```
