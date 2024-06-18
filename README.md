@@ -60,6 +60,7 @@ My areas of expertise include application design (DDD, Microservices).
 ## Event Talks
 - [【Developers Summit 2023 Summer】なぜドメイン駆動設計(DDD)なのか？ ～現代ソフトウェア設計におけるその必要性と適用性～](https://codezine.jp/devonline/archive/session/157)
 - [【DevOpsDays Tokyo 2024】今すぐできる！ DORA metrics でカジュアルに始める CI/CD](https://confengine.com/conferences/devopsdays-tokyo-2024/proposal/19720/dora-metrics-cicd)
+- [【CloudNative Days Summer 2024】クラウドネイティブ化は本当に必要なのか？ 移行パターンと成功のポイント](https://event.cloudnativedays.jp/cnds2024/talks/2261)
 
 ## Articles
 ### Tech
