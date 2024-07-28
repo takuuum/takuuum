@@ -25,7 +25,7 @@ My main area of expertise is backend development, but I also have experience in 
 | Position | Company | Duration | Employment Type |
 |---|---|---|---|
 | Application Architect / Developer | [Cloud Ace](https://cloud-ace.jp) | April 2021 - Present | Permanent |
-| Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | March 2022 - Present | Freelance |
+| Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | March 2022 - Present | Outsourcing |
 | Cloud Architect | [Toyota Motor Corporation](https://global.toyota) | September 2022 - February 2023 | Permanent　(在籍出向)|
 
 ## Skills
