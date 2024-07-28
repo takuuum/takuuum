@@ -7,9 +7,9 @@ Web アプリケーションエンジニアとして 3 年間で 15 案件に参
 
 現在は Application Modernization 領域に参画し、クラウドネイティブなシステムに移行するための設計や開発を行っている。
 
-得意領域は、顧客折衝、要件定義、アプリケーション設計 (DDD, Microservices, etc.)　です。
+得意領域は、顧客折衝、要件定義、アプリケーション設計 (DDD, Microservices, etc.)　。
 
-専門領域はバックエンドですが、フロントエンドやSREの業務経験もあります。
+専門領域はバックエンドだが、フロントエンドやSREの業務経験もあり。
 
 ```
 As a web application engineer for 3 years, I have participated in 15 projects, covering a wide range of tasks from requirements definition, design, implementation, to testing.
@@ -58,10 +58,13 @@ My main area of expertise is backend development, but I also have experience in 
 ```
 
 ### Other
+- キャッチアップ速度
+  - 未経験入社から最年少で　Sr.Specialist（Cloud Ace社内の上位約25%に相当するエンジニアグレード）に昇格
+  - DDD未経験から2週間でお客様に技術支援ができるようキャッチアップを行い、2ヶ月後には参加者2,000人越えのエンジニアイベントに登壇し、DDDノウハウの発表を行った。
 - コミュニケーション能力
   - 顧客折衝の業務経験（7案件）
-  - プリセールスまたはポストセールスの業務経験（5案件）
-  - イベント登壇（3回）
+  - プリセールスの業務経験（5案件）
+  - イベント登壇（12回）
 
 - リーダーシップ
   - 最大11人規模のPL経験（6案件）
