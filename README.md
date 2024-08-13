@@ -78,8 +78,8 @@ My main area of expertise is backend development, but I also have experience in 
 ```
 - Communication Skills
   - Experience in customer negotiation (6 projects)
-  - Experience in presales or post-sales (3 projects)
-  - Presented at events (6 times)
+  - Experience in presales or post-sales (5 projects)
+  - Presented at events (12 times)
 - Leadership
   - Experience as a PL for up to 11 people (6 projects)
   - Experienced as a tech lead and architect for a team of 30 people (3 stakeholders)
