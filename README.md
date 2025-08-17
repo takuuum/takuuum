@@ -3,18 +3,18 @@
 [![](https://komarev.com/ghpvc/?username=takuuum&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Overview
-Web アプリケーションエンジニアとして 3 年間で 15 案件に参画し、要件定義、設計、実装、テストまで幅広く担当。
+Web アプリケーションエンジニアとして 4 年間で 16 案件に参画し、要件定義、設計、実装、テストまで幅広く担当。
 
-現在は Application Modernization 領域に参画し、クラウドネイティブなシステムに移行するための設計や開発を行っている。
+バックエンドを専門領域としながら、フロントエンドや SRE 領域も兼務しており、現在は、フロントエンドエンジニアとして AI ライティングツールの開発を行っている。
 
-得意領域は、顧客折衝、要件定義、アプリケーション設計 (DDD, Microservices, etc.)　。
+得意領域は、要件定義、アプリケーション設計(DDD, Microservices, etc.)。
 
-専門領域はバックエンドだが、フロントエンドやSREの業務経験もあり。
+Google Cloud Partner Top Engineer 2025、2024年度グッドデザイン賞を受賞。
 
 ```
-As a web application engineer for 3 years, I have participated in 15 projects, covering a wide range of tasks from requirements definition, design, implementation, to testing.
+As a web application engineer for 4 years, I have participated in 16 projects, covering a wide range of tasks from requirements definition, design, implementation, to testing.
 
-Currently, I am involved in the Application Modernization field, where I support the design and development of migrating systems to cloud-native architectures.
+Currently, I am working as a frontend engineer developing AI writing tools.
 
 My areas of expertise include client negotiation, requirements definition, and application design (DDD, microservices, etc.).
 
@@ -24,26 +24,33 @@ My main area of expertise is backend development, but I also have experience in 
 ## Job summary
 | Position | Company | Duration | Employment Type |
 |---|---|---|---|
-| Application Architect / Developer | [Cloud Ace](https://cloud-ace.jp) | April 2021 - Present | Permanent |
 | Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | March 2022 - Present | Outsourcing |
+| Application Architect / Developer | [Cloud Ace](https://cloud-ace.jp) | April 2021 - March 2025 | Permanent |
 | Cloud Architect | [Toyota Motor Corporation](https://global.toyota) | September 2022 - February 2023 | Permanent　(在籍出向)|
 
 ## Skills
 ### Tech
 | Title | Level |
 |---|---|
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> | ★★★★★ |
+| **Frontend** |  |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ts" /> | ★★★☆☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,next" /> | ★★★☆☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vue,nuxt" /> | ★★☆☆☆ |
+| **Backend** |  |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" /> | ★★★★☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs,nestjs" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> | ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.) |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,nestjs,nuxt" /> | ★★★☆☆ |
+| **Infra & Middleware** |  |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area) |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★★☆ |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ★★☆☆☆　|
-| DDD | ★★★★★ |
-| Microservices | ★★★★☆ |
-| CI/CD | ★★★☆☆ |
-| O11y | ★★★☆☆ (Logging and Trace) |
-| GenAI | ★★☆☆☆ |
+| **Other** |  |
+| - DDD | ★★★★★ |
+| - Microservices | ★★★★☆ |
+| - CI/CD | ★★★☆☆ |
+| - O11y | ★★★☆☆ (Logging and Trace) |
+| - GenAI | ★★★☆☆ |
 <!-- 
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" /> | ☆☆☆☆☆ (I'm studying.) |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ☆☆☆☆☆ (I'm studying.) |  -->
@@ -59,19 +66,17 @@ My main area of expertise is backend development, but I also have experience in 
 
 ### Other
 - キャッチアップ速度
-  - 未経験入社から最年少で　Sr.Specialist（Cloud Ace社内の上位約25%に相当するエンジニアグレード）に昇格
+  - 未経験入社から最年少で Sr.Specialist（Cloud Ace社内の上位約25%に相当するエンジニアグレード）に昇格
   - DDD未経験から2週間でお客様に技術支援ができるようキャッチアップを行い、2ヶ月後には参加者2,000人越えのエンジニアイベントに登壇し、DDDノウハウの発表を行った。
 - コミュニケーション能力
   - 顧客折衝の業務経験（7案件）
   - プリセールスの業務経験（5案件）
   - イベント登壇（12回）
-
 - リーダーシップ
   - 最大11人規模のPL経験（6案件）
   - 30人規模（ステークホルダー3社）のテックリードとアーキテクトを経験
   - 社内勉強会を主催（42回） <!-- ２０２４・７・28時点-->
   - 学生時代に当時運営メンバーが200人規模のNPO団体の学生副代表を経験
-
 - メンター
   - 新卒研修で7人のメンター（技術指導/メンタリング）を経験
 
@@ -103,8 +108,13 @@ My main area of expertise is backend development, but I also have experience in 
 - [CI/CD 手軽改善！DORA metrics × Cloud Deploy 実践例](https://zenn.dev/cloud_ace/articles/cicd-clouddeploy)
 - [1秒も保持できないCookieを永久的に保持する方法（ITP2.3対応）](https://qiita.com/takuuuum/items/ad445844eb131d5e59cb)
 ### Other
+- [2024年の「エンジニア活動」を振り返る](https://note.com/mizutaku0705/n/naa875063e177)
 - [「好きなことを仕事にする」 ではなく 「嫌いなことを仕事にしない」](https://note.com/mizutaku0705/n/nb61178496061)
 - [「できないこと」をできないと言う勇気](https://note.com/mizutaku0705/n/nafbca7b3635f)
+
+## Awards
+- Google Cloud Partner Top Engineer 2025
+- 2024年度グッドデザイン賞
 
 ## Certifications
 ### Tech
@@ -118,6 +128,3 @@ My main area of expertise is backend development, but I also have experience in 
 - 小学校教諭免許
 - 特別支援学校教諭免許
 - 社会教育士
-  
-## Projects
-TBD
