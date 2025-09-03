@@ -5,7 +5,9 @@
 ## Overview
 Web アプリケーションエンジニアとして 4 年間で 16 案件に参画し、要件定義、設計、実装、テストまで幅広く担当。
 
-バックエンドを専門領域としながら、フロントエンドや SRE 領域も兼務しており、現在は、フロントエンドエンジニアとして AI ライティングツールの開発を行っている。
+バックエンドを専門領域としながら、フロントエンドや SRE 領域も兼務。
+
+現在は、フロントエンドエンジニアとして AI ライティングツール（AI テキストエディタ）の開発を行っている。
 
 得意領域は、要件定義、アプリケーション設計(DDD, Microservices, etc.)。
 
@@ -24,9 +26,10 @@ My main area of expertise is backend development, but I also have experience in 
 ## Job summary
 | Position | Company | Duration | Employment Type |
 |---|---|---|---|
-| Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | March 2022 - Present | Outsourcing |
-| Application Architect / Developer | [Cloud Ace](https://cloud-ace.jp) | April 2021 - March 2025 | Permanent |
-| Cloud Architect | [Toyota Motor Corporation](https://global.toyota) | September 2022 - February 2023 | Permanent　(在籍出向)|
+| Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | 2025/4 - Present | Outsourcing (full-time)|
+| Application Architect / Developer | [STUDIO EURYGRAPH](https://studioeurygraph.com) | 2022/3 - 2025/3 | Outsourcing |
+| Cloud Architect | [Toyota Motor Corporation](https://global.toyota) | 2022/9 - 2023/2 | Permanent (full-time, 在籍出向)|
+| Application Architect / Developer </br> Cloud Architect / Developer | [Cloud Ace](https://cloud-ace.jp) | 2021/4 - 2025/3 | Permanent (full-time)|
 
 ## Skills
 ### Tech
@@ -41,16 +44,18 @@ My main area of expertise is backend development, but I also have experience in 
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs,nestjs" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py" /> | ★★★☆☆ (I haven't touched it in over a year, so I need to relearn it.) |
 | **Infra & Middleware** |  |
-| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★★ (Application area) |
+| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gcp" /> | ★★★★☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,postgres" /> | ★★★☆☆ |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ★★☆☆☆　|
-| **Other** |  |
-| - DDD | ★★★★★ |
-| - Microservices | ★★★★☆ |
-| - CI/CD | ★★★☆☆ |
-| - O11y | ★★★☆☆ (Logging and Trace) |
-| - GenAI | ★★★☆☆ |
+| **Architecture** |  |
+| ・DDD | ★★★★★ |
+| ・Microservices | ★★★★☆ |
+| **DevOps** |  |
+| ・CI/CD | ★★★☆☆ |
+| ・O11y | ★★★☆☆ (Logging and Trace) |
+| **AI** |  |
+| ・GenAI Application | ★★★☆☆ |
 <!-- 
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" /> | ☆☆☆☆☆ (I'm studying.) |
 | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=terraform" /> | ☆☆☆☆☆ (I'm studying.) |  -->
