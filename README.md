@@ -51,6 +51,7 @@ My main area of expertise is backend development, but I also have experience in 
 | **Architecture** |  |
 | ・DDD | ★★★★★ |
 | ・Microservices | ★★★★☆ |
+| ・Modular Monolith | ★★★★☆ |
 | **DevOps** |  |
 | ・CI/CD | ★★★☆☆ |
 | ・O11y | ★★★☆☆ (Logging and Trace) |
